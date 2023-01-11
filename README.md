@@ -28,9 +28,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - CSS Grid
-- Mobile-first workflow
 
 ### Useful resources
 
