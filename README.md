@@ -10,7 +10,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
-- [Author](#author)
+- [Find Me On](#find-me-on)
 
 
 ## Overview
